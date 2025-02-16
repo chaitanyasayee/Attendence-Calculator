@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import "../index.css";
-import SubItem from "./SubItem";
+import SubItem from "./SubItem.jsx";
 import AddSub from "./AddSub";
 import BarGraph from "./BarGraph";
 import PieGraph from "./PieGraph";
